@@ -1,0 +1,1 @@
+As a postgraduate, with a strong foundation in programming, I consider myself a responsible and organized individual. Currently seeking my first work experience.My academic background, combined with practical experience in various programming projects, has honed my skills and reinforced my commitment.
