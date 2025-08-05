@@ -1,10 +1,10 @@
-# 👋 Hi there, I'm Abhishek (aka devilizbusy) 👨‍💻
+# 👋 Hi there, I'm Abhishek 👨‍💻
 
 I'm a passionate frontend developer with a strong foundation in **JavaScript**, and hands-on experience building responsive websites and real-world projects.
 
 🎓 A postgraduate with a love for problem-solving and clean UI/UX  
 💼 Currently seeking frontend development roles  
-🚀 Always learning and growing — currently focused on **React.js**, **Tailwind CSS**, and **TypeScript**
+🚀 Always learning and growing — currently focused on **React.js**, **Tailwind CSS**, and **Java**
 
 ---
 
